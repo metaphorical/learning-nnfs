@@ -1,0 +1,1 @@
+# Having fun with neural networks from scrach course
